@@ -1,0 +1,81 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 9rem;
+    width: 100%;
+    padding: 0 6rem;
+    z-index: 100;
+
+    &__name {
+        display: flex;
+        align-items: center;
+
+        & p {
+            color: white;
+            padding-left: 2rem;
+            font-size: 2.5rem;
+            font-weight: 500;
+            letter-spacing: 2px;
+        }
+
+        & span {
+            color: $color-primary;
+            padding: 0 0.5rem;
+        }
+    }
+
+    /* nav and stickly class at the same time */
+    &.sticky {
+        position: fixed;
+        background-color: rgb(19, 20, 23);
+        border-bottom: 1px solid rgb(46, 46, 46);
+    }
+
+    &__logo {
+        height: 4.5rem;
+        transition: all 0.3s;
+    }
+
+    &__links {
+        display: flex;
+        align-items: center;
+        list-style: none;
+    }
+
+    &__item {
+        margin-left: 4rem;
+    }
+
+    &__link:link,
+    &__link:visited {
+        font-size: 1.7rem;
+        font-weight: 400;
+        color: inherit;
+        text-decoration: none;
+        display: block;
+        transition: all 0.3s;
+    }
+
+    &__link--btn {
+        width: 5rem;
+        height: 5rem;
+        border-radius: 5px;
+        background-color: #333;
+        color: $color-primary;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        & > i {
+            font-size: 2rem;
+        }
+    }
+
+    &__link--btn:hover,
+    &__link--btn:active {
+        color: inherit;
+        background-color: $color-primary-darker;
+        color: #333;
+    }
+}

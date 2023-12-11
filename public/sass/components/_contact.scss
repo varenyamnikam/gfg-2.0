@@ -1,0 +1,23 @@
+.contact {
+    background-image: linear-gradient(to right, rgba(55, 56, 61, 0.6), rgba(55, 56, 61, 0.6)),
+        url("/images/dotted-map-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    position: relative;
+
+    &__form {
+        width: 80rem;
+        height: 60rem;
+
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    &__description {
+        font-size: 1.8rem;
+        color: #fff;
+        font-weight: 400;
+        padding-top: 1rem;
+    }
+}

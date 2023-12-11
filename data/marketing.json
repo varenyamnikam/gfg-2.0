@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Manvi Gawande",
+        "designation": "Marketing Head",
+        "photo": "/images/Photos/Core/Manvi Gawande.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/manvi-gawande-197073246",
+        "github_url": "https://github.com/Manvi234"
+    },
+    {
+        "name": "Abhinand Manwate",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Abhinand Manwate.png",
+        "linkedin_url": "https://www.linkedin.com/in/abhinand-manwate-116929195/",
+        "github_url": "https://github.com/abhinandmanwate",
+        "instagram_url": "https://www.instagram.com/abhinandmanwate/",
+        "twitter_url": "https://twitter.com/abhinandmanwate"
+    },
+    {
+        "name": "Dheeraj Salunkhe",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Dheeraj Salunkhe.jpg"
+    },
+    {
+        "name": "Gayatri Satpute",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Gayatri Satpute.png",
+        "linkedin_url": "https://www.linkedin.com/in/gayatri-satpute-b07312222/",
+        "github_url": "https://github.com/Gayatri-7"
+    },
+    {
+        "name": "Kajal Shingavi",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Kajal Shingavi.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/kajal-shingavi-3b1132226",
+        "github_url": "https://github.com/kajal454"
+    },
+    {
+        "name": "Sanskar Shinde",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Sanskar Shinde.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/sanskar-shinde-b600b022b",
+        "github_url": "https://github.com/Sanskar1603"
+    },
+    {
+        "name": "Yash Kadam",
+        "designation": "Member",
+        "photo": "/images/Photos/Marketing/Yash Kadam.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/yashdkadam/",
+        "github_url": "https://github.com/yashdkadam"
+    }
+]

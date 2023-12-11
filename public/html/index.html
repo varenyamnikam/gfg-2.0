@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="shortcut icon" type="image/png" href="/images/favicon.ico" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap" rel="stylesheet">
+
+  <!-- GFG Fontawesome Kit -->
+  <script src="https://kit.fontawesome.com/c5434c80c0.js" crossorigin="anonymous"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  <title>GFG Student Chapter | PCCOER</title>
+</head>
+
+<body>
+  <header class="header">
+    <nav class="nav">
+      <div class="nav__name">
+        <img src="/images/logo.png" alt="Bankist logo" class="nav__logo" id="logo" />
+        <p>GFG<span>x</span>PCCOER</p>
+      </div>
+      <ul class="nav__links">
+        <li class="nav__item">
+          <a class="nav__link" href="#section--1">About</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link" href="#section--2">Events</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link" href="#section--3">Team</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link" href="#section--4">FAQ's</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link" href="#section--5">Contact</a>
+        </li>
+      </ul>
+      <a class="nav__link--btn" href="#section--2">
+        <i class="fa-solid fa-calendar"></i>
+      </a>
+    </nav>
+    <div class="top_progress_bar"></div>
+
+    <div class="header__title">
+      <h1>
+        Welcome to
+        <br />
+        <span class="highlight">GeeksforGeeks</span>
+        <br />
+        Student Chapter at
+        <span class="highlight">PCCOER</span>
+      </h1>
+      <button class="btn--text btn--scroll-to">Know more &DownArrow;</button>
+      <canvas class="header__canvas"></canvas>
+    </div>
+  </header>
+
+  <section class="section" id="section--1">
+    <div class="section__title">
+      <h2 class="section__description">About</h2>
+      <h3 class="section__header">
+        We ignite dreams to create a change for the future
+      </h3>
+    </div>
+
+    <div class="about">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/yeX5sFkwLrw" title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+        class="about__video"></iframe>
+
+      <div class="about__feature">
+        <h5 class="about__header">What's GFG X PCCOER ?</h5>
+        <p>
+          GeeksforGeeks Student Chapters are university-based community chapters creating a coding culture for students
+          interested in Computer Science and other core technical competencies.
+        </p>
+        <br>
+        <h5 class="about__header">Perks</h5>
+        <ol>
+          <li>Get an internship at GeeksforGeeks</li>
+          <li>Grow their knowledge in a peer-to-peer learning environment</li>
+          <li>Learn to
+            build effective and optimized solutions for local businesses and their community as per the latest
+            technology
+            trends</li>
+          <li>Great learning and networking experience</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="section--2">
+    <div class="section__title">
+      <h2 class="section__description">Events</h2>
+      <h3 class="section__header">
+        Bringing dreams to life
+      </h3>
+    </div>
+
+    <div class="events">
+      <div class="events__left">
+        <img src="/images/money-heist.jpg" alt="Autorun bg" class="events__img" />
+      </div>
+      <div class="events__right">
+        <h2 class="events__title">Auto Run <span>Season 1</span></h2>
+        <p class="events__short--description">Gfg Student Chapter's Annual Coding Contest</p>
+        <p class="events__team">Team Moscow</p>
+        <div class="events__timeline">
+          <p><i class="fa-solid fa-calendar"></i>11th December 2022</p>
+          <p><i class="fa-solid fa-clock"></i>8:00 - 10:30 PM</p>
+        </div>
+        <p class="events__text">Register on both the links</p>
+        <div class="events__links">
+          <a href="https://forms.gle/BvQfmejyrQSNzMR28" target="_blank" class="btn">Register</a>
+          <a href="https://bit.ly/TeamMOSCOW" target="_blank" class="btn">Participate</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="section--3">
+    <div class="section__title">
+      <h2 class="section__description">Team</h2>
+      <h3 class="section__header">
+        Alone we can do so little, together we can do so much
+      </h3>
+    </div>
+
+    <div class="team__tab-container">
+      <button class="btn team__tab team__tab--1 team__tab--active" data-tab="1">
+        Core
+      </button>
+
+      <button class="btn team__tab team__tab--2" data-tab="2">
+        Technical
+      </button>
+    </div>
+
+    <div class="team__content team__content--1 team__content--active">
+      <div>
+        <div class="team__content--card">
+          <div class="team__content--card__side team__content--card__side--front">
+            <img src="/images/Photos/Core/Rakshita Khidbide.jpeg" alt="Photo 1" />
+            <div class="col"></div>
+            <h3>Rakshita Khidbide</h3>
+            <p>President</p>
+          </div>
+          <div class="team__content--card__side team__content--card__side--back">
+            <div class="back-col"></div>
+            <p>G</p>
+          </div>
+        </div>
+        <div class="team__content--social">
+          <a href="https://www.linkedin.com/in/rakshita-khidbide-637793209" target="_blank"><i
+              class="fa-brands fa-linkedin-in"></i></a>
+          <a href="https://github.com/Raksh16" target="_blank"><i class="fa-brands fa-github"></i></a>
+          <a href="https://instagram.com/raksh_1601?igshid=YmMyMTA2M2Y=" target="_blank"><i
+              class="fa-brands fa-instagram"></i></a>
+          <a href="https://twitter.com/Rakshita1601?t=ovZZ9ADpbyQMmzDnG1T-Vw&s=09" target="_blank"><i
+              class="fa-brands fa-twitter"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="team__content team__content--2">
+      <div class="card">
+        <img src="#" alt="Photo 1" />
+        <div class="col"></div>
+        <h3>Rakshita Khidbide</h3>
+        <p>Chairperson</p>
+        <hr class="line">
+        <div class="team__content--social">
+          <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="#"><i class="fa-brands fa-github"></i></a>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="section--4">
+    <div class="section__title">
+      <h2 class="section__description">Frequently Asked Questions</h2>
+      <h3 class="section__header">
+        What can we help you find?
+      </h3>
+    </div>
+
+    <div class="accordion">
+      <div class="accordion-item">
+        <button id="accordion-button-1" aria-expanded="false">
+          <span class="accordion-title">How will GeeksforGeeks PCCOER Student Chapter help students?</span>
+          <span class="icon" aria-hidden="true"></span>
+        </button>
+        <div class="accordion-content">
+          <p>
+            GeeksforGeeks student Chapters will provide students with various events and webinars on coding or
+            placements. Students may get internship opportunities at GeeksforGeeks. Along with all these students can
+            get exclusive discounts on GFG courses. You will get an opportunity to participate in competition on a PAN
+            India level. It will help students to grow a network among 145+ colleges.
+          </p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button id="accordion-button-2" aria-expanded="false">
+          <span class="accordion-title">What are some of the events we can organize?</span>
+          <span class="icon" aria-hidden="true"></span>
+        </button>
+        <div class="accordion-content">
+          <p>
+            We will be having Coding Events through GFG IDE. We will have webinar sessions through GFG. We will be
+            organizing a webinar with someone from your network who is good at the domain in which students
+            are interested in. Various Fun Quizes,competitions etc. Rest, It is open to creative imagination.
+          </p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button id="accordion-button-3" aria-expanded="false">
+          <span class="accordion-title">What are the perks after joining GFGXPCCOER ?</span>
+          <span class="icon" aria-hidden="true"></span>
+        </button>
+        <div class="accordion-content">
+          <p>
+            It will help you to grow , learn ,explore and expand your network.
+            You will get a chance to win exciting prizes and goodies.
+            You may get an internship opportunity at GeeksforGeeks.
+          </p>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <button id="accordion-button-4" aria-expanded="false">
+          <span class="accordion-title">Who can be a part of GFGXPCCOER ?</span>
+          <span class="icon" aria-hidden="true"></span>
+        </button>
+        <div class="accordion-content">
+          <p>
+            It's open for all (FE,SE,TE,BE).
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--contact" id="section--5">
+    <div class="section__title">
+      <h2 class="section__description">Contact Us</h2>
+      <h3 class="section__header">
+        Feel free to keep in touch with us!
+      </h3>
+    </div>
+
+    <div class="contact">
+      <form class="contact__form">
+        <div class="form-input__group">
+          <div class="form__group">
+            <label for="name" class="form__label">Name *</label>
+            <input type="text" class="form__input" id="name" placeholder="Your Name" required />
+          </div>
+
+          <div class="form__group">
+            <label for="phone" class="form__label">Phone *</label>
+            <input type="tel" class="form__input" id="phone" placeholder="Your Phone" required maxlength="10"
+              pattern="[0-9]{10}" />
+          </div>
+        </div>
+
+        <div class="form-input__group">
+          <div class="form__group">
+            <label for="email" class="form__label">Email *</label>
+            <input type="email" class="form__input" id="email" placeholder="Your Email" required />
+          </div>
+
+          <div class="form__group">
+            <label for="subject" class="form__label">Subject</label>
+            <input type="text" class="form__input" id="subject" placeholder="Subject" maxlength="50" />
+          </div>
+        </div>
+
+        <div class="form__group form__group--last">
+          <label for="message" class="form__label">Message</label>
+          <textarea type="text" class="form__input" id="message" placeholder="Message" maxlength="1500"></textarea>
+        </div>
+
+        <button class="btn form__submit" type="submit">Send Message Now &nbsp;
+          <i class="fa-solid fa-arrow-right"></i></button>
+      </form>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <img src="/images/logo.png" alt="Logo" class="footer__logo" />
+    <p class="footer__note">Made with <img src="/images/heart.webp" alt="heart" /> by GFG
+      Student Chapter
+      PCCOER</p>
+  </footer>
+
+  <!-- Confetti -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+  <script src="/js/bundle.js"></script>
+</body>
+
+</html>

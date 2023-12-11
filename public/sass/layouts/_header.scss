@@ -1,0 +1,51 @@
+.header {
+    padding: 0 3rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(19, 20, 23, 0.5), rgba(19, 20, 23, 0.5)),
+        url("../images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    &__title {
+        flex: 1;
+
+        max-width: 120rem;
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+        row-gap: 3rem;
+        column-gap: 10rem;
+        align-content: center;
+        justify-content: center;
+
+        align-items: start;
+        justify-items: start;
+
+        & > h1 {
+            text-shadow: 3px 3px 1px $color-primary, -2px 1px 30px $color-primary;
+        }
+    }
+
+    &__canvas {
+        width: 100%;
+        grid-column: 2 / 3;
+        grid-row: 1 / span 4;
+        transform: translateY(-6rem);
+        border-radius: 50%;
+    }
+}
+
+.highlight {
+    position: relative;
+    display: inline-block;
+    background-image: $gradient-primary;
+    background-size: 150%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: none;
+
+    animation: gradient-move 15s ease infinite;
+}

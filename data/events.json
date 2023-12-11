@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Riya Mohite",
+        "designation": "Events Head",
+        "photo": "/images/Photos/Core/Riya Mohite.jpeg",
+        "linkedin_url": "https://www.linkedin.com/in/riya-mohite-355bb2231",
+        "github_url": "https://github.com/RiyaM05",
+        "instagram_url": "https://instagram.com/riya__1424?igshid=YmMyMTA2M2Y="
+    },
+    {
+        "name": "Anuj Waghulde",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Anuj Waghulde.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/anuj-waghulde-37ab49224",
+        "github_url": "https://github.com/anujwar",
+        "instagram_url": "https://www.instagram.com/_.anoooj18._/",
+        "twitter_url": "https://twitter.com/anujrw18"
+    },
+    {
+        "name": "Atharva Khairnar",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Atharva Khairnar.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/khairnar-atharva-2b3b55249",
+        "instagram_url": "https://www.instagram.com/invites/contact/?i=d5f4gsxwb7r1&utm_content=m2bnu3k"
+    },
+    {
+        "name": "Laxmi Rajguru",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Laxmi Rajguru.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/laxmi-rajguru-a4bb48217",
+        "github_url": "https://github.com/LaxmiRajguru",
+        "instagram_url": "https://instagram.com/_rajguru_laxmi?igshid=YmMyMTA2M2Y="
+    },
+    {
+        "name": "Shlok Padale",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Shlok Padale.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/shlok-padale-a0899720a",
+        "github_url": "https://github.com/shlok1115",
+        "instagram_url": "https://instagram.com/shlok_.0015",
+        "twitter_url": "https://twitter.com/shlok_0015?t=MB51njJfO0nkBK69MGlxjQ&s=09"
+    },
+    {
+        "name": "Trisha Thakur",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Trisha Thakur.jpeg",
+        "linkedin_url": "https://www.linkedin.com/in/trisha-thakur-09b8aa237",
+        "github_url": "https://github.com/trishathakur2102"
+    },
+    {
+        "name": "Vaidehi Charhate",
+        "designation": "Member",
+        "photo": "/images/Photos/Events/Vaidehi Charhate.jpg",
+        "linkedin_url": "http://www.linkedin.com/in/vaidehi-charhate-63593721a",
+        "github_url": "http://github.com/vaidehicharhate09"
+    }
+]

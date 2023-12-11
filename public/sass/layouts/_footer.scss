@@ -1,0 +1,25 @@
+.footer {
+    padding: 5rem 3rem;
+    background-color: #37383d;
+
+    &__logo {
+        height: 10rem;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+    }
+
+    &__note {
+        font-size: 1.4rem;
+        color: #aaa;
+        text-align: center;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        & .footer__link {
+            font-size: 1.4rem;
+        }
+    }
+}

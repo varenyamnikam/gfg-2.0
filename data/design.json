@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Darshan Rathod",
+        "designation": "Design Head",
+        "photo": "/images/Photos/Core/Darshan Rathod.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/darshan-rathod-2nd-370a11210",
+        "github_url": "https://github.com/drashan14"
+    },
+    {
+        "name": "Rucha Gaikwad",
+        "designation": "Joint Design Head",
+        "photo": "/images/Photos/Core/Rucha Gaikwad.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rucha-gaikwad-6ab519212",
+        "github_url": "https://github.com/ruchagaikwad567",
+        "instagram_url": "https://www.instagram.com/ruh_6"
+    },
+    {
+        "name": "Ishwari Pawar",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Ishwari Pawar.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/ishwari-p-721857209",
+        "github_url": "https://github.com/ishwari27",
+        "instagram_url": "https://www.instagram.com/ish_wari8743/",
+        "twitter_url": "https://twitter.com/Ishwari_sp?t=KJqUVyXnEmrqiaufGdSfIw&s=09"
+    },
+    {
+        "name": "Piyush Bhone",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Piyush Bhone.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/bhone-piyush-062a58249",
+        "github_url": "https://github.com/pbhone24"
+    },
+    {
+        "name": "Rigveda Bankar",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Rigveda Bankar.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rigveda-bankar-ba134b230",
+        "instagram_url": "https://www.instagram.com/p/Ci-IWD9tu2A/?igshid=YmMyMTA2M2Y="
+    },
+    {
+        "name": "Rutuja Yeole",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Rutuja Yeole.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rutuja-yeole-a1434721a",
+        "github_url": "https://github.com/rutuja413",
+        "instagram_url": "https://www.instagram.com/rutuja_yeole_04/"
+    },
+    {
+        "name": "Sahil Shinde",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Sahil Shinde.jpeg",
+        "linkedin_url": "https://www.linkedin.com/in/sahil-shinde-03215022a",
+        "github_url": "https://github.com/SahilShinde90",
+        "instagram_url": "https://instagram.com/sahil__shinde_09?igshid=MDE2OWE1N2Q=",
+        "twitter_url": "https://mobile.twitter.com/SahilSh05931768"
+    },
+    {
+        "name": "Sakshi Bhingardive",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Sakshi Bhingardive.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/sakshi-bhingardive-821923234",
+        "github_url": "https://github.com/Sakshi3130",
+        "instagram_url": "https://www.instagram.com/s.a.k.s.h.i.3.1",
+        "twitter_url": "https://twitter.com/S_a_k_s_h_i_08?t=ImzB6wPZSgm3jTk9PQJ6mw&s=08"
+    },
+    {
+        "name": "Srushti Satalkar",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Srushti Satalkar.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/srushti-satalkar-9962a3221",
+        "instagram_url": "https://www.instagram.com/itssrushti3/"
+    },
+    {
+        "name": "Vinay Sureka",
+        "designation": "Member",
+        "photo": "/images/Photos/Design/Vinay Sureka.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/vinay-sureka-817207211",
+        "github_url": "https://github.com/vinay4563",
+        "twitter_url": "https://twitter.com/vinaytwts?t=1BvlnMMhp-4jyzDlj1xO8A&s=09"
+    }
+]

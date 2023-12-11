@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Rakshita Khidbide",
+        "designation": "President",
+        "photo": "/images/Photos/Core/Rakshita Khidbide.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rakshita-khidbide-637793209",
+        "github_url": "https://github.com/Raksh16",
+        "instagram_url": "https://instagram.com/raksh_1601?igshid=YmMyMTA2M2Y=",
+        "twitter_url": "https://twitter.com/Rakshita1601?t=ovZZ9ADpbyQMmzDnG1T-Vw&s=09",
+        "letter": "G"
+    },
+    {
+        "name": "Sandesh Mundhe",
+        "designation": "Vice-President",
+        "photo": "/images/Photos/Core/Sandesh Mundhe.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/sandesh-mundhe-2437b621a/",
+        "github_url": "https://github.com/sandesh1929",
+        "instagram_url": "https://www.instagram.com/mundhe_sandesh/",
+        "letter": "F"
+    },
+    {
+        "name": "Mukesh Tandale",
+        "designation": "Technical Head",
+        "photo": "/images/Photos/Core/Mukesh Tandale.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/mukesh-tandale-a80723205",
+        "github_url": "https://github.com/d093w1z",
+        "letter": "G"
+    },
+    {
+        "name": "Atharva Nimbalkar",
+        "designation": "Joint Technical Head",
+        "photo": "/images/Photos/Core/Atharva Nimbalkar.jpg",
+        "linkedin_url": "www.linkedin.com/in/atharva-nimbalkar-a8a05721a",
+        "github_url": "https://github.com/Legond-25",
+        "letter": "X"
+    },
+    {
+        "name": "Darshan Rathod",
+        "designation": "Design Head",
+        "photo": "/images/Photos/Core/Darshan Rathod.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/darshan-rathod-2nd-370a11210",
+        "github_url": "https://github.com/drashan14",
+        "letter": "P"
+    },
+    {
+        "name": "Rucha Gaikwad",
+        "designation": "Joint Design Head",
+        "photo": "/images/Photos/Core/Rucha Gaikwad.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rucha-gaikwad-6ab519212",
+        "github_url": "https://github.com/ruchagaikwad567",
+        "instagram_url": "https://www.instagram.com/ruh_6",
+        "letter": "C"
+    },
+    {
+        "name": "Manvi Gawande",
+        "designation": "Marketing Head",
+        "photo": "/images/Photos/Core/Manvi Gawande.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/manvi-gawande-197073246",
+        "github_url": "https://github.com/Manvi234",
+        "letter": "C"
+    },
+    {
+        "name": "Vaidehi Pawar",
+        "designation": "Social Media Head",
+        "photo": "/images/Photos/Core/Vaidehi Pawar.png",
+        "linkedin_url": "https://www.linkedin.com/in/vaidehi-pawar-10b48b213/",
+        "github_url": "https://github.com/vaidehi-613",
+        "instagram_url": "https://www.instagram.com/_pawar.vaidehi_/",
+        "twitter_url": "https://twitter.com/vaidehi613",
+        "letter": "O"
+    },
+    {
+        "name": "Riya Mohite",
+        "designation": "Events Head",
+        "photo": "/images/Photos/Core/Riya Mohite.jpeg",
+        "linkedin_url": "https://www.linkedin.com/in/riya-mohite-355bb2231",
+        "github_url": "https://github.com/RiyaM05",
+        "instagram_url": "https://instagram.com/riya__1424?igshid=YmMyMTA2M2Y=",
+        "letter": "E"
+    },
+    {
+        "name": "Riya Borhade",
+        "designation": "Public Relations Head",
+        "photo": "/images/Photos/Core/Riya Borhade.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/riya-borhade-6833821a8",
+        "github_url": "https://github.com/riyaborhade21",
+        "letter": "R"
+    }
+]

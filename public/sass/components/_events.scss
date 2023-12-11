@@ -1,0 +1,110 @@
+.events {
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 0.4fr 0.6fr;
+
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+    color: #000;
+    background-color: #fff;
+    border-radius: 10px;
+    background-color: #000;
+
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+
+    &__title {
+        font-family: "Oswald", sans-serif;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 5rem;
+
+        & > span {
+            color: #000;
+            background-color: #ff0000;
+            padding: 0 1.5rem;
+            border-radius: 2px;
+        }
+    }
+
+    &__short--description {
+        font-family: "Oswald", sans-serif;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 2rem;
+        letter-spacing: 1px;
+    }
+
+    &__team {
+        text-transform: uppercase;
+        padding-top: 4rem;
+        font-size: 4rem;
+        color: #ff0000;
+        font-weight: 600;
+        transition: all 1s;
+        animation: pop 1s ease infinite;
+    }
+
+    &__right {
+        padding-top: 3rem;
+        text-align: center;
+    }
+
+    &__left {
+        overflow: hidden;
+        height: 100%;
+        align-self: center;
+        justify-self: center;
+    }
+
+    &__img {
+        height: 100%;
+    }
+
+    &__timeline {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+
+        padding-top: 3rem;
+        padding-left: 25rem;
+        font-size: 1.6rem;
+
+        & > p {
+            color: #fff;
+
+            & > i {
+                padding-right: 2rem;
+            }
+        }
+    }
+
+    &__text {
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        font-size: 1.2rem;
+        padding: 2rem 0;
+        color: #fff;
+    }
+
+    &__links {
+        width: 50%;
+        display: flex;
+        padding-top: 2rem;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0 auto;
+
+        & > a {
+            background-color: white;
+            text-decoration: none;
+            color: #000;
+            padding: 0.8rem 4rem;
+
+            &:hover {
+                background-color: red;
+            }
+        }
+    }
+}

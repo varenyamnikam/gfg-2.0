@@ -1,0 +1,111 @@
+.accordion {
+    font-family: "Poppins", sans-serif;
+    max-width: 80rem;
+    margin: 0 auto;
+
+    & .accordion-item {
+        border-bottom: 1px solid #e5e5e5;
+        padding: 1.5rem 0;
+
+        & button[aria-expanded="true"] {
+            border-bottom: 1px solid $color-primary;
+        }
+    }
+
+    & button[aria-expanded="true"] {
+        color: $color-primary;
+
+        & .icon::after {
+            width: 0;
+        }
+
+        & + .accordion-content {
+            opacity: 1;
+            max-height: 15rem;
+            transition: all 200ms linear;
+            will-change: opacity, max-height;
+        }
+    }
+
+    & button {
+        position: relative;
+        display: block;
+        text-align: left;
+        width: 100%;
+        padding: 1em 0;
+        color: #fff;
+        font-size: 1.15rem;
+        font-weight: 400;
+        border: none;
+        background: none;
+        outline: none;
+
+        &:hover,
+        &:focus {
+            cursor: pointer;
+            color: $color-primary;
+        }
+
+        &:hover::after,
+        &:focus::after {
+            cursor: pointer;
+            color: $color-primary;
+            border: 1px solid $color-primary;
+        }
+
+        & .accordion-title {
+            font-family: "Poppins", sans-serif;
+            padding: 1em 1.5em 1em 0;
+            font-size: 2rem;
+        }
+
+        & .icon {
+            display: inline-block;
+            position: absolute;
+            top: 18px;
+            right: 0;
+            width: 22px;
+            height: 22px;
+            border: 1px solid;
+            border-radius: 22px;
+
+            &::before {
+                display: block;
+                position: absolute;
+                content: "";
+                top: 9px;
+                left: 5px;
+                width: 10px;
+                height: 2px;
+                background: currentColor;
+            }
+
+            &::after {
+                display: block;
+                position: absolute;
+                content: "";
+                top: 5px;
+                left: 9px;
+                width: 2px;
+                height: 10px;
+                background: currentColor;
+            }
+        }
+    }
+
+    & .accordion-content {
+        font-family: "Poppins", sans-serif;
+        opacity: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: opacity 200ms linear, max-height 200ms linear;
+        will-change: opacity, max-height;
+
+        & p {
+            font-size: 1.5rem;
+            font-weight: 300;
+            margin: 2em 0;
+            color: #ced4da;
+        }
+    }
+}
