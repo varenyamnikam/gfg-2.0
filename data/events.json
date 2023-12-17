@@ -1,57 +1,42 @@
 [
     {
-        "name": "Riya Mohite",
-        "designation": "Events Head",
-        "photo": "/images/Photos/Core/Riya Mohite.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/riya-mohite-355bb2231",
-        "github_url": "https://github.com/RiyaM05",
-        "instagram_url": "https://instagram.com/riya__1424?igshid=YmMyMTA2M2Y="
+        "name": "Saad Shaikh",
+        "designation": "Event Team",
+        "photo": "/img/event/saad.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/saad-shaikh-b13682259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/saadshaikqfnp/",
+        "Leetcode_account":"#"
     },
     {
-        "name": "Anuj Waghulde",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Anuj Waghulde.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/anuj-waghulde-37ab49224",
-        "github_url": "https://github.com/anujwar",
-        "instagram_url": "https://www.instagram.com/_.anoooj18._/",
-        "twitter_url": "https://twitter.com/anujrw18"
+        "name": "Chetna Pole",
+        "designation": "Event Team",
+        "photo": "/img/event/chetna.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/chetna-pole-61266b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/chetnapoxd9e",
+        "Leetcode_account":"https://leetcode.com/problemset/all/"
     },
     {
-        "name": "Atharva Khairnar",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Atharva Khairnar.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/khairnar-atharva-2b3b55249",
-        "instagram_url": "https://www.instagram.com/invites/contact/?i=d5f4gsxwb7r1&utm_content=m2bnu3k"
+        "name": "Anushka Kakade",
+        "designation": "Event Team",
+        "photo": "/img/event/anushka.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/anushka-anil-kakade-027b31289",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/anushkakak74b4/",
+        "Leetcode_account":"https://leetcode.com/anushkak2312/"
     },
     {
-        "name": "Laxmi Rajguru",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Laxmi Rajguru.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/laxmi-rajguru-a4bb48217",
-        "github_url": "https://github.com/LaxmiRajguru",
-        "instagram_url": "https://instagram.com/_rajguru_laxmi?igshid=YmMyMTA2M2Y="
+        "name": "Atharva Anantwar",
+        "designation": "Event Team",
+        "photo": "/img/event/atharav_a.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/atharva-anantwar-b48678257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"auth.geeksforgeeks.org",
+        "Leetcode_account":"https://leetcode.com/atharvaanantwar/"
     },
     {
-        "name": "Shlok Padale",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Shlok Padale.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/shlok-padale-a0899720a",
-        "github_url": "https://github.com/shlok1115",
-        "instagram_url": "https://instagram.com/shlok_.0015",
-        "twitter_url": "https://twitter.com/shlok_0015?t=MB51njJfO0nkBK69MGlxjQ&s=09"
-    },
-    {
-        "name": "Trisha Thakur",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Trisha Thakur.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/trisha-thakur-09b8aa237",
-        "github_url": "https://github.com/trishathakur2102"
-    },
-    {
-        "name": "Vaidehi Charhate",
-        "designation": "Member",
-        "photo": "/images/Photos/Events/Vaidehi Charhate.jpg",
-        "linkedin_url": "http://www.linkedin.com/in/vaidehi-charhate-63593721a",
-        "github_url": "http://github.com/vaidehicharhate09"
+        "name": "Prathamesh Vharkal",
+        "designation": "Event Team",
+        "photo": "/img/event/prathamesh.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/prathmesh-vharkal-67b816259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/prathmeshvh7t8/",
+        "Leetcode_account":"https://leetcode.com/Parthmesh765/"
     }
 ]

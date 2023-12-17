@@ -1,35 +1,26 @@
 [
     {
-        "name": "Riya Borhade",
-        "designation": "Public Relations Head",
-        "photo": "/images/Photos/Core/Riya Borhade.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/riya-borhade-6833821a8",
-        "github_url": "https://github.com/riyaborhade21"
+        "name": "Rohan Soundane",
+        "designation": "PRO Team",
+        "photo": "/img/pro/rohan.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/soundane-rohan-863794236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/rohansoux5a6",
+        "Leetcode_account":"https://leetcode.com/profile/rohansoundane015"
     },
     {
-        "name": "Abhishek Kawade",
-        "designation": "Member",
-        "photo": "/images/Photos/Public Relations/Abhishek Kawade.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/abhishek-kawade-10ba8a219",
-        "github_url": "https://github.com/Abhishek1210ak",
-        "instagram_url": "https://www.instagram.com/_abhishek_kawade_/",
-        "twitter_url": "https://mobile.twitter.com/12itsmeabhishek"
+        "name": "Anand Jain",
+        "designation": "PRO Team",
+        "photo": "/img/pro/anand.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/anand-jain-727817259/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/anandja6aey",
+        "Leetcode_account":"https://leetcode.com/anand_jain76/"
     },
     {
-        "name": "Komal Shingavi",
-        "designation": "Member",
-        "photo": "/images/Photos/Public Relations/Komal Shingavi.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/komal-shingavi-702896226",
-        "github_url": "https://github.com/komal65",
-        "instagram_url": "https://www.instagram.com/komal.shingavi"
-    },
-    {
-        "name": "Yash Yadwadkar",
-        "designation": "Member",
-        "photo": "/images/Photos/Public Relations/Yash Yadwadkar.jpeg",
-        "linkedin_url": "http://www.linkedin.com/in/yash-yadwadkar",
-        "github_url": "https://github.com/YashYadwadkar",
-        "instagram_url": "https://www.instagram.com/yashyadwadkar",
-        "twitter_url": "https://twitter.com/YYadwadkar"
+        "name": "Aarti Pawar",
+        "designation": "PRO Team",
+        "photo": "/img/pro/aarti.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/aarti-pawar-511684215",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/pawaraarti2701",
+        "Leetcode_account":"https://leetcode.com/pawaraarti1750/"
     }
 ]
