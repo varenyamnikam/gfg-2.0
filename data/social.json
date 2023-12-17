@@ -1,69 +1,27 @@
 [
     {
-        "name": "Vaidehi Pawar",
-        "designation": "Social Media Head",
-        "photo": "/images/Photos/Core/Vaidehi Pawar.png",
-        "linkedin_url": "https://www.linkedin.com/in/vaidehi-pawar-10b48b213/",
-        "github_url": "https://github.com/vaidehi-613",
-        "instagram_url": "https://www.instagram.com/_pawar.vaidehi_/",
-        "twitter_url": "https://twitter.com/vaidehi613"
+        "name": "Raajas Nandedkar",
+        "designation": "Social-Media Team",
+        "photo": "/img/socialmedia/raajas.jpg",
+        "linkedin_url": "www.linkedin.com/in/raajas-nandedkar-35547b259",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/raajas",
+        "Leetcode_account":"https://leetcode.com/raajasnandedkar/"
+
     },
     {
-        "name": "Kaustubh Patil",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Kaustubh Patil.jpg",
-        "linkedin_url": "https://www.linkedin.com /in/kaustubh-patil-0289a821b/",
-        "github_url": "https://github.com/KaustubhP20"
+        "name": "Ayush Hinge",
+        "designation": "Social-Media Team",
+        "photo": "/img/socialmedia/ayush.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/ayush-hinge-167764259/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/hingeayugke3",
+        "Leetcode_account":"https://leetcode.com/ayushhinge8808/"
     },
     {
-        "name": "Om Zilpilwar",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Om Zilpilwar.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/om-zilpilwar-68095717a",
-        "github_url": "https://github.com/omzilpilwar",
-        "instagram_url": "https://www.instagram.com/omzilpilwar/",
-        "twitter_url": "https://twitter.com/OmZilpilwar"
-    },
-    {
-        "name": "Purva Parab",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Purva Parab.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/purva-parab-657a7a236",
-        "github_url": "https://github.com/Purva225577",
-        "instagram_url": "https://www.instagram.com/purvapparab25/"
-    },
-    {
-        "name": "Ritika Bhoite",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Ritika Bhoite.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/ritika-bhoite-672559206/",
-        "github_url": "https://github.com/ritikab1707",
-        "instagram_url": "https://www.instagram.com/ritika_bhoite/"
-    },
-    {
-        "name": "Samruddhi Kashmire",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Samruddhi Kashmire.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/samruddhi-kashmire-47b7b2236",
-        "github_url": "https://github.com/samruddhikashmire",
-        "instagram_url": "https://www.instagram.com/_sweetassasin_/"
-    },
-    {
-        "name": "Siddhesh Ukirde",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Siddhesh Ukirde.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/siddhesh-ukirde-baa3451ba",
-        "github_url": "https://github.com/SiddheshU",
-        "instagram_url": "https://www.instagram.com/siddhesh.ukirde/",
-        "twitter_url": "https://mobile.twitter.com/SiddheshUkirde"
-    },
-    {
-        "name": "Tanmay Sangalgikar",
-        "designation": "Member",
-        "photo": "/images/Photos/Social Media/Tanmay Sangalgikar.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/tanmay-anil-sangalgikar-26a7a4236/",
-        "github_url": "https://github.com/KrakenSP23",
-        "instagram_url": "https://www.instagram.com/tanmays_15__/",
-        "twitter_url": "https://twitter.com/SangalgikarT"
+        "name": "Mansi Gaikwad",
+        "designation": "Social-Media Team",
+        "photo": "/img/socialmedia/mansi.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/mansi-gaikwad-780b82257",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/mansigaikkzgl",
+        "Leetcode_account":"https://leetcode.com/mansi_s_g/"
     }
 ]

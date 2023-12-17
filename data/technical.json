@@ -1,247 +1,66 @@
 [
     {
-        "name": "Mukesh Tandale",
-        "designation": "Technical Head",
-        "photo": "/images/Photos/Core/Mukesh Tandale.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/mukesh-tandale-a80723205",
-        "github_url": "https://github.com/d093w1z"
+        "name": "Aditya Bhosale",
+        "designation": "Technical Co-HEAD",
+        "photo": "/img/technical/aditya_b.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/aditya-bhosale-129858236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/adityabhosale1268",
+        "Leetcode_account":"https://leetcode.com/adityamohanbhosale123/"
     },
     {
-        "name": "Atharva Nimbalkar",
-        "designation": "Joint Technical Head",
-        "photo": "/images/Photos/Core/Atharva Nimbalkar.jpg",
-        "linkedin_url": "www.linkedin.com/in/atharva-nimbalkar-a8a05721a",
-        "github_url": "https://github.com/Legond-25"
+        "name": "Aditya Gaikwad",
+        "designation": "CP Team",
+        "photo": "/img/cp/aditya_g.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/aditya-gaikwad-835448255/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/aditya_9119/",
+        "Leetcode_account":"https://leetcode.com/aditya_9119/"
     },
     {
-        "name": "Abhishek Khachane",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Abhishek Khachane.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/abhishek-khachane-a01310211",
-        "github_url": "https://github.com/AbhishekKhachane"
+        "name": "Kshitij Patil",
+        "designation": "CP Team",
+        "photo": "/img/cp/kshitij.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/kshitij-patil-638472235/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/kshitijpatfhvl/practice",
+        "Leetcode_account":"https://leetcode.com/Kshitij552/"
     },
     {
-        "name": "Atharv Ghogare",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Atharv Ghogare.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/atharvg",
-        "github_url": "https://github.com/Dark-Alpha-7",
-        "instagram_url": "https://www.instagram.com/atharva_ghogare/",
-        "twitter_url": "https://twitter.com/Atharv_Ghogare"
+        "name": "Suyash Shinde",
+        "designation": "CP Team",
+        "photo": "/img/cp/suyash.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/suyash-shinde-85647a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/suyashck9qo/practice",
+        "Leetcode_account":"https://leetcode.com/Eyepatch_Koala/"
     },
     {
-        "name": "Bhakti Vaidya",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Bhakti Vaidya.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/bhakti-vaidya-b36419212",
-        "github_url": "https://github.com/Bhaktivaidya24/Bhaktivaidya24",
-        "instagram_url": "https://instagram.com/wily_waffle24?igshid=NjZiMGI4OTY="
+        "name": "Pranav Nebhnani",
+        "designation": "CP Team",
+        "photo": "/img/cp/pranav.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/pranav-nebhnani-00b670259",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/pnebhnt6he",
+        "Leetcode_account":"https://leetcode.com/pnebhnani24/"
     },
     {
-        "name": "Darshan Nerkar",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Darshan Nerkar.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/darshan-nerkar/",
-        "github_url": "https://github.com/darsh016",
-        "instagram_url": "https://www.instagram.com/darshannk16/"
+        "name": "Ravidas Gaikwad",
+        "designation": "Web Team",
+        "photo": "/img/web/ravidas.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/khairnar-atharva-2b3b55249",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/ravidasgaiksm5u",
+        "Leetcode_account":"#"
     },
     {
-        "name": "Dhiraj Patil",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Dhiraj Patil.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/dhiraj-patil-b89163205",
-        "github_url": "https://github.com/dhirajpatil2346",
-        "instagram_url": "https://www.instagram.com/dhiraj_patil_2346/"
+        "name": "Abhay Gupta",
+        "designation": "Web Team",
+        "photo": "/img/web/abhay.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/abhay-gupta-91951a233",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/abhaygup3pq4",
+        "Leetcode_account":"https://leetcode.com/Abhay081/"
     },
     {
-        "name": "Gaurav Suryavanshi",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Gaurav Suryavanshi.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/gaurav-suryavanshi-804a97208",
-        "github_url": "https://github.com/gauravsuryvanshi06",
-        "instagram_url": "https://www.instagram.com/__gauravsuryavanshi/",
-        "twitter_url": "https://twitter.com/GauravSuryvnshi"
-    },
-    {
-        "name": "Jay Firke",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Jay Firke.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/jay-firke-0aa416121",
-        "github_url": "https://github.com/jayfirke",
-        "instagram_url": "https://instagram.com/jayfirke",
-        "twitter_url": "https://twitter.com/firkejay"
-    },
-    {
-        "name": "Kunal Dere",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Kunal Dere.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/kunal-dere-a6252221a"
-    },
-    {
-        "name": "Nandita Nikam",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Nandita Nikam.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/nandita-nikam-266726205",
-        "github_url": "https://github.com/NanditaAN"
-    },
-    {
-        "name": "Neeraj Kulkarni",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Neeraj Kulkarni.png",
-        "linkedin_url": "http://linkedin.com/in/neeraj-kulkarni223",
-        "github_url": "http://github.com/dazkool223",
-        "instagram_url": "https://www.instagram.com/nee_kulkarnii",
-        "twitter_url": "https://twitter.com/dazkool69"
-    },
-    {
-        "name": "Om Chimanpure",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Om Chimanpure.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/om-chimanpure-881410246",
-        "github_url": "https://github.com/OMI772"
-    },
-    {
-        "name": "Rajat Deore",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Rajat Deore.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/rajat-deore-072260220/",
-        "github_url": "https://github.com/RajatDeore7"
-    },
-    {
-        "name": "Sanchit Ingale",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Sanchit Ingale.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/sanchit-ingale-09996b223/",
-        "github_url": "https://github.com/sanchit339",
-        "instagram_url": "https://www.instagram.com/___sanchit_3/"
-    },
-    {
-        "name": "Sanika Hange",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Sanika Hange.jpeg",
-        "linkedin_url": "https://www.linkedin.com/in/sanika-hange-9a200120a",
-        "github_url": "https://github.com/san13579"
-    },
-    {
-        "name": "Shivam Barke",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Shivam Barke.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/shivam-barke",
-        "github_url": "https://www.github.com/ShivamBarke"
-    },
-    {
-        "name": "Supriya Jadhav",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Supriya Jadhav.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/supriya-jadhav-75a6a11b1",
-        "github_url": "https://github.com/Supriya0711"
-    },
-    {
-        "name": "Vedant Angane",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Vedant Angane.png",
-        "linkedin_url": "https://www.linkedin.com/in/vedant-angane-042557201",
-        "github_url": "https://github.com/Vedant755",
-        "instagram_url": "https://www.instagram.com/vedantsig/",
-        "twitter_url": "https://twitter.com/VedantAngane2?t=k2zNBQQOOjFQgo-J1oQmZw&s=09"
-    },
-    {
-        "name": "Aalisha Kureshi",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Aalisha Kureshi.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/aalisha-kureshi-426673229",
-        "github_url": "https://github.com/aalisha-123",
-        "instagram_url": "https://www.instagram.com/_aalisha__kureshi?r=nametag",
-        "twitter_url": "https://twitter.com/KureshiAalisha?t=6n9tqYLR4_rVyOc54m2NlA&s=09"
-    },
-    {
-        "name": "Aniket Kate",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Aniket Kate.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/aniket-kate-b97675229/",
-        "github_url": "https://github.com/aniketkate",
-        "instagram_url": "https://www.instagram.com/i.aniketkate/",
-        "twitter_url": "https://twitter.com/aniketkate2109"
-    },
-    {
-        "name": "Ashwin Lavate",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Ashwin Lavate.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/ashwin-lavate-a5a74b22b",
-        "github_url": "https://github.com/Ashwin-510"
-    },
-    {
-        "name": "Harsh Patil",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Harsh Patil.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/harsh-patil-5086b6236",
-        "github_url": "https://github.com/harsh7777777",
-        "instagram_url": "https://www.instagram.com/p/CODLb5tnzTJOOa2ObxRWEaT0C2nbBuJOjk6ZjM0/?igshid=YmMyMTA2M2Y=",
-        "twitter_url": "https://twitter.com/HarshPa74712937?t=pcdvFxhGQZLEPsDbS1KcMA&s=09"
-    },
-    {
-        "name": "Prerana Khandekar",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Prerana Khandekar.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/prerana-khandekar-b54639234",
-        "github_url": "https://github.com/preranakhandekar"
-    },
-    {
-        "name": "Rucha Potu",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Rucha Potu.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/rucha-potu",
-        "github_url": "https://github.com/Rucha03/rucha_p.git",
-        "instagram_url": "https://www.instagram.com/rucha_potu/"
-    },
-    {
-        "name": "Saakshi Salunkhe",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Saakshi Salunkhe.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/saakshi-salunkhe-949070228",
-        "instagram_url": "http://instagram.com/pearl_in_ocean_14"
-    },
-    {
-        "name": "Shruti Ghate",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Shruti Ghate.jpg",
-        "linkedin_url": "https://www.linkedin.com/public-profile/settings",
-        "github_url": "https://github.com/shrutighate",
-        "instagram_url": "https://www.instagram.com/shrutighate1112/"
-    },
-    {
-        "name": "Shubham Pardeshi",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Shubham Pardeshi.jpeg",
-        "linkedin_url": "http://www.linkedin.com/in/shubham-pardeshi-3b1a77236",
-        "github_url": "https://github.com/shubhcoder03",
-        "instagram_url": "http://instagram.com/shubhampardeshi_03",
-        "twitter_url": "https://twitter.com/Shubham_309"
-    },
-    {
-        "name": "Shubham Shejwal",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Shubham Shejwal.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/shubham-shejwal-738a33221",
-        "github_url": "https://github.com/shubham932002",
-        "instagram_url": "https://www.instagram.com/shubham932002"
-    },
-    {
-        "name": "Tejas Varpe",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Tejas Varpe.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/varpe-tejas-720882234",
-        "github_url": "https://github.com/CoderTejas7",
-        "instagram_url": "https://www.instagram.com/tejas_varpe20/?hl=en",
-        "twitter_url": "https://twitter.com/TejasVarpe5?t=sXxfdtEi5jXLLsfXBaU2Zg&s=09"
-    },
-    {
-        "name": "Trapti Gorbade",
-        "designation": "Member",
-        "photo": "/images/Photos/Technical/Trapti Gorbade.jpg",
-        "linkedin_url": "https://www.linkedin.com/in/trapti-gorbade-07380a221",
-        "github_url": "https://github.com/settings/profile",
-        "instagram_url": "https://www.instagram.com/trapti_gorbade/",
-        "twitter_url": "https://twitter.com/TGorbade?t=JU-Glczvf1k4phhFldW-_A&s=08"
+        "name": "Tanay Naphade",
+        "designation": "Technical Team",
+        "photo": "/img/technical/tanay.jpg",
+        "linkedin_url": "https://in.linkedin.com/in/tanay-naphade-851859297",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/tanaynaphade9/",
+        "Leetcode_account":"https://leetcode.com/GOJOKUN/"
     }
 ]
